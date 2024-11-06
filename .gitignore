@@ -1,0 +1,6 @@
+*.obj
+*.jpg
+*.jpeg
+*.png
+res/
+.DS_Store
